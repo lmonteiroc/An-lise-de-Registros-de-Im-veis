@@ -1,0 +1,2 @@
+# An-lise-de-Registros-de-Im-veis
+Verificando um banco de dados imobiliário e filtrando seu conteúdo, extraindo informações relevantes, nos relatórios será possível verificar: Importamos informações de fontes externas e inseri-las na estrutura de dados do Pandas, isto é, o dataframe e a series. Conhecemos técnicas de seleção e exclusão de informações no dataframe. Criamos distribuição de frequências e realizar análises gráficas. Realizamos estatísticas a partir de grupos de dados. Removemos outliners utilizando a técnica do box-plot.
